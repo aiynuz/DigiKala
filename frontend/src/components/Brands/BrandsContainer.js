@@ -111,7 +111,7 @@ const BrandsContainer = async () => {
                           brand.image
                             ? `
                               <img
-                                src="${brand.image}"
+                                src="${import.meta.env.BASE_URL}${brand.image.replace(/^\/+/, "")}"
                                 alt="${brand.title}"
                                 class="
                                   w-full

@@ -25,7 +25,7 @@ ${data.slides
 
 <img
 
-src="${slide.image}"
+src="${import.meta.env.BASE_URL}${slide.image.replace(/^\/+/, "")}"
 
 class="
 w-full

@@ -30,7 +30,7 @@ gap-3
 
 <img
 
-src="${item.image}"
+src="${import.meta.env.BASE_URL}${item.image.replace(/^\/+/, "")}"
 
 class="
 w-14

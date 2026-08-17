@@ -6,7 +6,7 @@ export default function TopBanner(data) {
         class="block w-full"
       >
         <img
-          src="${data.image}"
+          src="${import.meta.env.BASE_URL}${data.image.replace(/^\/+/, "")}"
           alt="Top Banner"
           class="
             block

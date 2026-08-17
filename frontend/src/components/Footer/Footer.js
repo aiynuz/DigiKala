@@ -44,7 +44,7 @@ const footerBrands = await getFooterBrands();
         >
 
           <img
-            src="${data.logo}"
+            src="${import.meta.env.BASE_URL}${data.image.replace(/^\/+/, "")}"
             class="
               w-[170px]
               object-contain

@@ -158,7 +158,7 @@ export default function BestSellingProducts(data) {
                                     >
 
                                       <img
-                                      src="${product.image}"
+                                      src="${import.meta.env.BASE_URL}${product.image.replace(/^\/+/, "")}"
                                         alt="${product.name}"
                                         class="
                                           w-full

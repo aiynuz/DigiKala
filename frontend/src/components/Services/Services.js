@@ -100,7 +100,7 @@ font-bold
 
 <img
 
-src="${item.image}"
+src="${import.meta.env.BASE_URL}${item.image.replace(/^\/+/, "")}"
 
 class="
 w-[44px]

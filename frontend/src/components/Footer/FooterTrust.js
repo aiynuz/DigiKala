@@ -109,7 +109,7 @@ export default function FooterTrust(data) {
             >
 
               <img
-                src="${logo.image}"
+                src="${import.meta.env.BASE_URL}${logo.image.replace(/^\/+/, "")}"
                 alt="${logo.title}"
                 class="
                   max-w-[60px]

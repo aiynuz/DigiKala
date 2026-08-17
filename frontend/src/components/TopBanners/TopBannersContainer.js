@@ -30,7 +30,7 @@ const TopBannersContainer = async () => {
               ">
 
                 <img
-                  src="${banner.image}"
+                  src="${import.meta.env.BASE_URL}${banner.image.replace(/^\/+/, "")}"
                   alt=""
                   class="
                     w-full

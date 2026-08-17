@@ -39,7 +39,7 @@ md:gap-0
         class="shrink-0">
 
             <img
-            src="${data.logo}"
+            src="${import.meta.env.BASE_URL}${data.image.replace(/^\/+/, "")}"
             alt="logo"
             class="
             w-[120px]

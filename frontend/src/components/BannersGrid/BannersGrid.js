@@ -31,7 +31,7 @@ block
 >
 
 <img
-src="${banner.image}"
+src="${import.meta.env.BASE_URL}${banner.image.replace(/^\/+/, "")}"
 class="
 w-full
 h-[160px]

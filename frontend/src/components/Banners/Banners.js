@@ -40,7 +40,7 @@ rounded-2xl
 
 <img
 
-src="${item.image}"
+src="${import.meta.env.BASE_URL}${item.image.replace(/^\/+/, "")}"
 
 class="
 w-full

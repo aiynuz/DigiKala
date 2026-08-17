@@ -87,7 +87,7 @@ export default function EyelashEnhancers(data) {
                             >
 
                               <img
-                                src="${product.image}"
+                                src="${import.meta.env.BASE_URL}${product.image.replace(/^\/+/, "")}"
                                 alt="${product.name}"
                                 class="
                                   w-full
