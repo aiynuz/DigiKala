@@ -39,7 +39,7 @@ md:gap-0
         class="shrink-0">
 
             <img
-            src="${import.meta.env.BASE_URL}${data.image.replace(/^\/+/, "")}"
+            src="/DigiKala${data.logo}"
             alt="logo"
             class="
             w-[120px]

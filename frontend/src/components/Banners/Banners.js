@@ -40,7 +40,7 @@ rounded-2xl
 
 <img
 
-src="${import.meta.env.BASE_URL}${item.image.replace(/^\/+/, "")}"
+src="/DigiKala${item.image}"
 
 class="
 w-full

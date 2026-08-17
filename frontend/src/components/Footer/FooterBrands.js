@@ -51,7 +51,7 @@ border-gray-200
 
 <img
 
-src="${import.meta.env.BASE_URL}${item.image.replace(/^\/+/, "")}"
+src="/DigiKala${item.image}"
 
 class="
 max-w-[90px]

@@ -90,7 +90,7 @@ export default async function Protein() {
                         >
 
                           <img
-                            src="${import.meta.env.BASE_URL}${product.image.replace(/^\/+/, "")}"
+                            src="/DigiKala${product.image}"
                             alt="${product.name}"
                             class="
                               w-full

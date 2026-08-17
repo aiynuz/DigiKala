@@ -66,7 +66,7 @@ const Categories = async () => {
                     category.image
                       ? `
                         <img
-                          src="${import.meta.env.BASE_URL}${category.image.replace(/^\/+/, "")}"
+                          src="/DigiKala${category.image}"
                           alt="${category.title}"
                           class="
                             w-full

@@ -31,7 +31,7 @@ block
 >
 
 <img
-src="${import.meta.env.BASE_URL}${banner.image.replace(/^\/+/, "")}"
+src="/DigiKala${banner.image}"
 class="
 w-full
 h-[160px]

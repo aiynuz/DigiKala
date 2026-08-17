@@ -30,7 +30,7 @@ const BottomBannersContainer = async () => {
               ">
 
                 <img
-                  src="${import.meta.env.BASE_URL}${banner.image.replace(/^\/+/, "")}"
+                  src="/DigiKala${banner.image}"
                   alt=""
                   class="
                     w-full

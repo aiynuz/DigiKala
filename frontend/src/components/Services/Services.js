@@ -100,7 +100,8 @@ font-bold
 
 <img
 
-src="${import.meta.env.BASE_URL}${item.image.replace(/^\/+/, "")}"
+
+src="/DigiKala${item.image}"
 
 class="
 w-[44px]

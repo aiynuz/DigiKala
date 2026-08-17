@@ -109,7 +109,7 @@ export default function FooterTrust(data) {
             >
 
               <img
-                src="${import.meta.env.BASE_URL}${logo.image.replace(/^\/+/, "")}"
+                src="/DigiKala${logo.image}"
                 alt="${logo.title}"
                 class="
                   max-w-[60px]

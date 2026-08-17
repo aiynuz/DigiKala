@@ -44,7 +44,7 @@ const footerBrands = await getFooterBrands();
         >
 
           <img
-            src="${import.meta.env.BASE_URL}${data.image.replace(/^\/+/, "")}"
+            src="/DigiKala${data.logo}"
             class="
               w-[170px]
               object-contain

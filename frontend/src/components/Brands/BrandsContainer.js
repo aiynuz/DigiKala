@@ -111,7 +111,7 @@ const BrandsContainer = async () => {
                           brand.image
                             ? `
                               <img
-                                src="${import.meta.env.BASE_URL}${brand.image.replace(/^\/+/, "")}"
+                                src="/DigiKala${brand.image}"
                                 alt="${brand.title}"
                                 class="
                                   w-full

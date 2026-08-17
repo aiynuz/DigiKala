@@ -25,7 +25,7 @@ ${data.slides
 
 <img
 
-src="${import.meta.env.BASE_URL}${slide.image.replace(/^\/+/, "")}"
+src="/DigiKala${slide.image}"
 
 class="
 w-full

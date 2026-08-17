@@ -173,7 +173,7 @@ justify-between
 
 <img
 
-src="${import.meta.env.BASE_URL}${product.image.replace(/^\/+/, "")}"
+src="/DigiKala${product.image}"
 
 class="
 w-full

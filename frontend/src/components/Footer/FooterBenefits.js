@@ -30,7 +30,7 @@ gap-3
 
 <img
 
-src="${import.meta.env.BASE_URL}${item.image.replace(/^\/+/, "")}"
+src="/DigiKala${item.image}"
 
 class="
 w-14
