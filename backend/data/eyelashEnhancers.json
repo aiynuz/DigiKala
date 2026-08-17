@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "/images/eyelash-1.webp",
+    "name": "سرم تقویت کننده مژه و ابرو مدل LB4104 US 001",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۱۷۹,۰۰۰"
+  },
+  {
+    "id": 2,
+    "image": "/images/eyelash-2.webp",
+    "name": "سرم تقویت کننده مژه دیلیا مدل CREATOR حجم 10 میلی‌لیتر",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۱,۸۶۲,۰۰۰"
+  },
+  {
+    "id": 3,
+    "image": "/images/eyelash-3.webp",
+    "name": "سرم تقویت کننده مژه ماوالا مدل Double-Lash حجم 10 میلی‌لیتر",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۱,۶۱۷,۷۰۰"
+  },
+  {
+    "id": 4,
+    "image": "/images/eyelash-4.webp",
+    "name": "سرم تقویت کننده و احیا کننده مژه و ابرو سرازیا مدل Brow Enhancer",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۱,۲۰۰,۰۰۰"
+  },
+  {
+    "id": 5,
+    "image": "/images/eyelash-5.webp",
+    "name": "محلول تقویت کننده مژه سریتا مدل 2 حجم 7 میلی‌لیتر",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۲,۷۷۴,۰۰۰"
+  },
+  {
+    "id": 6,
+    "image": "/images/eyelash-6.webp",
+    "name": "محلول تقویت کننده مژه الکسیر کوین مدل 01 حجم 3 میلی‌لیتر",
+    "oldPrice": "۲,۷۳۷,۰۰۰",
+    "discount": "۴۰٪",
+    "price": "۱,۶۳۸,۰۰۰"
+  },
+  {
+    "id": 7,
+    "image": "/images/eyelash-7.webp",
+    "name": "سرم تقویت کننده مژه ولندان مدل EL حجم 5 میلی‌لیتر",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۸۴۸,۲۰۰"
+  },
+  {
+    "id": 8,
+    "image": "/images/eyelash-8.webp",
+    "name": "سرم تقویت کننده مژه و ابرو سریتا مدل Pro حجم 7 میلی‌لیتر",
+    "oldPrice": "۹۸۰,۰۰۰",
+    "discount": "۲۵٪",
+    "price": "۷۳۵,۰۰۰"
+  },
+  {
+    "id": 9,
+    "image": "/images/eyelash-9.webp",
+    "name": "محلول تقویت کننده مژه و ابرو آردن مدل Expert Age حجم 10 میلی‌لیتر",
+    "oldPrice": "۶۵۰,۰۰۰",
+    "discount": "۱۸٪",
+    "price": "۵۳۳,۰۰۰"
+  },
+  {
+    "id": 10,
+    "image": "/images/eyelash-10.webp",
+    "name": "سرم تقویت کننده مژه نانو هیل کد 02 حجم 5 میلی لیتر",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۵۹۵,۰۰۰"
+  }
+]

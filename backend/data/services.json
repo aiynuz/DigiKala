@@ -1,0 +1,54 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "سوپر مارکت فوری",
+      "image": "/images/services/digijet.png"
+    },
+    {
+      "id": 2,
+      "title": "طلا و نقره دیجیتال",
+      "image": "/images/services/supermarket.png"
+    },
+    {
+      "id": 3,
+      "title": "ارسال 3 ساعته",
+      "image": "/images/services/discount.png"
+    },
+    {
+      "id": 4,
+      "title": "محبوب ترین های برقی",
+      "image": "/images/services/bestseller.png"
+    },
+    {
+      "id": 5,
+      "title": "دیجی استایل",
+      "image": "/images/services/fast.png"
+    },
+    {
+      "id": 6,
+      "title": "بازار",
+      "image": "/images/services/gift.png"
+    },
+    {
+      "id": 7,
+      "title": "حراج لپتاپ تبلت",
+      "image": "/images/services/local.png"
+    },
+    {
+      "id": 8,
+      "title": "آشپزخانه ترندی",
+      "image": "/images/services/club.png"
+    },
+    {
+      "id": 9,
+      "title": "دیجی‌کارت",
+      "image": "/images/services/digicard.png"
+    },
+    {
+      "id": 10,
+      "title": "بیشتر",
+      "type":"more"
+    }
+  ]
+}

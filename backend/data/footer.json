@@ -1,0 +1,109 @@
+{
+  "logo": "/images/logo.svg",
+
+  "phone": "تلفن پشتیبانی: ۰۲۱-۶۱۹۳۰۰۰۰",
+
+  "support": "۷ روز هفته، ۲۴ ساعته پاسخگوی شما هستیم",
+
+
+  "benefits": [
+    {
+      "image": "/images/footer/benefit-express.png",
+      "title": "امکان تحویل اکسپرس"
+    },
+    {
+      "image": "/images/footer/benefit-payment.png",
+      "title": "امکان پرداخت در محل"
+    },
+    {
+      "image": "/images/footer/benefit-support.png",
+      "title": "۷ روز هفته، ۲۴ ساعته"
+    },
+    {
+      "image": "/images/footer/benefit-return.png",
+      "title": "هفت روز ضمانت بازگشت کالا"
+    },
+    {
+      "image": "/images/footer/benefit-guarantee.png",
+      "title": "ضمانت اصل بودن کالا"
+    }
+  ],
+
+
+  "columns": [
+    {
+      "title": "با دیجی‌کالا",
+      "items": [
+        "اتاق خبر دیجی‌کالا",
+        "فروش در دیجی‌کالا",
+        "فرصت‌های شغلی",
+        "گزارش تخلف در دیجی‌کالا",
+        "تماس با دیجی‌کالا",
+        "درباره دیجی‌کالا"
+      ]
+    },
+
+    {
+      "title": "خدمات مشتریان",
+      "items": [
+        "پاسخ به پرسش‌های متداول",
+        "رویه‌های بازگرداندن کالا",
+        "شرایط استفاده",
+        "حریم خصوصی",
+        "گزارش باگ"
+      ]
+    },
+
+    {
+      "title": "راهنمای خرید از دیجی‌کالا",
+      "items": [
+        "نحوه ثبت سفارش",
+        "رویه ارسال سفارش",
+        "شیوه‌های پرداخت"
+      ]
+    }
+
+
+  ],
+
+
+ "social": [
+  {
+    "icon": "fa-brands fa-instagram"
+  },
+  {
+    "icon": "fa-brands fa-twitter"
+  },
+  {
+    "icon": "fa-brands fa-linkedin"
+  },
+  {
+    "icon": "fa-brands fa-youtube"
+  },
+  {
+    "icon": "fa-solid fa-play"
+  }
+],
+
+
+  "newsletterPlaceholder": "ایمیل شما",
+
+
+  "apps": [
+    {
+      "image": "/images/footer/app-bazar.png"
+    },
+    {
+      "image": "/images/footer/app-myket.png"
+    },
+    {
+      "image": "/images/footer/app-sibapp.png"
+    }
+  ]
+  ,
+
+"about": {
+  "text": "برای استفاده از مطالب دیجی‌کالا، داشتن «هدف غیرتجاری» و ذکر «منبع» کافیست. تمام حقوق این وب‌سایت نیز برای شرکت نوآوران فن آوازه (فروشگاه آنلاین دیجی‌کالا) است.",
+  "moreText": "مشاهده بیشتر"
+}
+}

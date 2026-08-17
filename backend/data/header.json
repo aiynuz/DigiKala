@@ -1,0 +1,64 @@
+{
+  "topBanner": {
+    "image": "/images/banner-top.webp",
+    "link": "/"
+  },
+
+  "logo": "/images/logo.svg",
+
+  "searchPlaceholder": "جستجو  ",
+
+  "searchIcon": "fa-solid fa-magnifying-glass",
+
+  "loginText": "ورود | ثبت نام",
+  "loginIcon": "fa-solid fa-right-to-bracket",
+
+  "bellIcon": "fa-regular fa-bell",
+
+  "cartIcon": "fa-solid fa-cart-shopping",
+
+  "categoryTitle": "دسته بندی کالاها",
+  "categoryIcon": "fa-solid fa-bars",
+
+  "locationText": "انتخاب آدرس",
+  "locationIcon": "fa-solid fa-location-dot",
+
+  "menu": [
+    {
+      "id": 1,
+      "title": "شگفت‌انگیزها",
+      "icon": "fa-solid fa-bolt",
+      "link": "/amazing"
+    },
+    {
+      "id": 2,
+      "title": "سوپرمارکت",
+      "icon": "fa-solid fa-basket-shopping",
+      "link": "/supermarket"
+    },
+    {
+      "id": 3,
+      "title": "طلا و نقره",
+      "icon": "fa-solid fa-coins",
+      "link": "/gold"
+    },
+    {
+      "id": 4,
+      "title": "پرفروش‌ترین‌ها",
+      "icon": "fa-solid fa-fire",
+      "link": "/best-selling"
+    },
+    {
+      "id": 5,
+      "title": "دیجی استایل",
+      "icon": "fa-solid fa-shirt",
+      "link": "/style"
+    },
+    {
+      "id": 6,
+      "title": "در دیجی‌کالا بفروشید!",
+      "icon": "fa-solid fa-store",
+      "link": "/sell"
+    }
+  ]
+}

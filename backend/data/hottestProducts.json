@@ -1,0 +1,95 @@
+{
+  "title": "داغ‌ترین چند ساعت گذشته",
+  "products": [
+    {
+      "id": 1,
+      "rank": 1,
+      "image": "/images/hottest-products/hottest-products1.webp",
+      "name": "اسپری خوشبوکننده دهان میسویک مدل اکالیپتوس حجم 30 میلی لیتر "
+    },
+    {
+      "id": 2,
+      "rank": 2,
+      "image": "/images/hottest-products/hottest-products2.webp",
+      "name": "ماسک لب پیل آف آلیبولا"
+    },
+    {
+      "id": 3,
+      "rank": 3,
+      "image": "/images/hottest-products/hottest-products3.webp",
+      "name": "گوشی موبایل سامسونگ مدل Galaxy A57 دو سیم‌کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - ویتنام"
+    },
+    {
+      "id": 4,
+      "rank": 4,
+      "image": "/images/hottest-products/hottest-products4.webp",
+      "name": "گوشی موبایل سامسونگ مدل Galaxy S26 Ultra دو سیم‌کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام"
+    },
+    {
+      "id": 5,
+      "rank": 5,
+      "image": "/images/hottest-products/hottest-products5.webp",
+      "name": "شمش نقره زیوتو مدل 999.9  ZTE"
+    },
+    {
+      "id": 6,
+      "rank": 6,
+      "image": "/images/hottest-products/hottest-products6.webp",
+      "name": "کیف لوازم آرایش زنانه امیتیس مدل A551"
+    },
+    {
+      "id": 7,
+      "rank": 7,
+      "image": "/images/hottest-products/hottest-products7.webp",
+      "name": "ریمل میراودر مدل Fabulous Volume"
+    },
+    {
+      "id": 8,
+      "rank": 8,
+      "image": "/images/hottest-products/hottest-products8.webp",
+      "name": "برچسب مدل نظم‌دهنده ادویه و حبوبات"
+    },
+    {
+      "id": 9,
+      "rank": 9,
+      "image": "/images/hottest-products/hottest-products9.webp",
+      "name": "کپسول اینوزیتول پلاس یوروویتال"
+    },
+    {
+      "id": 10,
+      "rank": 10,
+      "image": "/images/hottest-products/hottest-products10.webp",
+      "name": "گردنبند طلا 18 عیار زنانه با زنجیر حلقه‌ای (فلامینگو) کاج گلد گالری مدل شرابه ای خلیجی"
+    },
+    {
+      "id": 11,
+      "rank": 11,
+      "image": "/images/hottest-products/hottest-products11.webp",
+      "name": "گوشی موبایل شیائومی مدل Redmi"
+    },
+    {
+      "id": 12,
+      "rank": 12,
+      "image": "/images/hottest-products/hottest-products12.webp",
+      "name": "کپسول مگنیفورت هولیستیکا 2 بسته 32 عددی"
+    },
+    {
+      "id": 13,
+      "rank": 13,
+      "image": "/images/hottest-products/hottest-products13.webp",
+      "name": "گوشی موبایل سامسونگ مدل Galaxy A16 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام"
+    },
+    {
+      "id": 14,
+      "rank": 14,
+      "image": "/images/hottest-products/hottest-products14.webp",
+      "name": "گوشی موبایل اپل مدل iPhone 13 CH دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 4 گیگابایت - نات اکتیو"
+    },
+    {
+      "id": 15,
+      "rank": 15,
+      "image": "/images/hottest-products/hottest-products15.webp",
+      "name": "یخچال و فریزر ساید بای ساید 28 فوت ایکس ویژن مدل TF541-AWD/ASD"
+    }
+  ]
+}

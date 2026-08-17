@@ -1,0 +1,941 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  direction: rtl;
+  font-family: "Vazirmatn", sans-serif;
+}
+
+/* =========================
+   Hero Slider
+========================= */
+
+.heroSwiper .swiper-pagination-bullet {
+  width: 8px;
+
+  height: 8px;
+
+  background: black;
+
+  opacity: 0.7;
+
+  transition: all 0.3s ease;
+}
+
+.heroSwiper .swiper-pagination-bullet-active {
+  width: 22px;
+
+  border-radius: 999px;
+
+  background: black;
+
+  opacity: 1;
+}
+
+.heroSwiper .swiper-button-next,
+.heroSwiper .swiper-button-prev {
+  width: 38px;
+
+  height: 38px;
+
+  background: rgba(255, 255, 255, 0.95);
+
+  border-radius: 50%;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: 0.25s ease;
+}
+
+.heroSwiper:hover .swiper-button-next,
+.heroSwiper:hover .swiper-button-prev {
+  opacity: 1;
+
+  visibility: visible;
+}
+
+/* =========================
+   Amazing Offers Buttons
+========================= */
+
+.amazing-prev,
+.amazing-next {
+  width: 40px;
+
+  height: 40px;
+
+  background: white;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  z-index: 50;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  font-size: 0;
+
+  color: #424750;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.25s ease;
+}
+
+/* جای دکمه ها */
+
+.amazing-prev {
+  left: 20px;
+}
+
+.amazing-next {
+  right: 260px;
+}
+
+/* نمایش هنگام رفتن موس روی اسلایدر */
+
+.amazingSwiper:hover ~ .amazing-prev,
+.amazingSwiper:hover ~ .amazing-next,
+.amazing-prev:hover,
+.amazing-next:hover {
+  opacity: 1;
+
+  visibility: visible;
+}
+
+/* فلش ها */
+/* فلش های Amazing Offers */
+
+.amazing-prev::after {
+  content: "›";
+  font-size: 22px;
+  color: #424750;
+}
+
+.amazing-next::after {
+  content: "‹";
+  font-size: 22px;
+  color: #424750;
+}
+
+/* hover خود دکمه */
+
+.amazing-prev:hover,
+.amazing-next:hover {
+  background: #f0f0f1;
+
+  transform: translateY(-50%);
+}
+/* =========================
+   Flash Sale Slider Buttons
+========================= */
+
+.flash-prev,
+.flash-next {
+  width: 40px;
+
+  height: 40px;
+
+  background: white;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  z-index: 50;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  font-size: 0;
+
+  color: #424750;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.25s ease;
+}
+
+/* جای دکمه ها */
+
+.flash-prev {
+  left: 1300px;
+}
+
+.flash-next {
+  right: 1300px;
+}
+
+/* نمایش هنگام رفتن موس روی اسلایدر */
+
+.flashSwiper:hover ~ .flash-prev,
+.flashSwiper:hover ~ .flash-next,
+.flash-prev:hover,
+.flash-next:hover {
+  opacity: 1;
+
+  visibility: visible;
+}
+.flash-prev::after {
+  content: "‹";
+  font-size: 22px;
+  color: #424750;
+}
+
+.flash-next::after {
+  content: "›";
+  font-size: 22px;
+  color: #424750;
+}
+
+/* hover */
+
+.flash-prev:hover,
+.flash-next:hover {
+  background: #f0f0f1;
+   transform: translateY(-50%);
+}
+.brands-prev,
+.brands-next {
+  width: 40px;
+
+  height: 40px;
+
+  background: white;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  top: 64%;
+
+  transform: translateY(-50%);
+
+  z-index: 50;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  font-size: 0;
+
+  color: #424750;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.25s ease;
+}
+
+/* جای دکمه ها */
+
+.brands-prev {
+  left: 15px;
+}
+
+.brands-next {
+  right: 15px;
+}
+
+/* نمایش هنگام رفتن موس روی اسلایدر */
+
+.brandsSwiper:hover ~ .brands-prev,
+.brandsSwiper:hover ~ .brands-next,
+.brands
+-prev:hover,
+.brands-next:hover {
+  opacity: 1;
+
+  visibility: visible;
+}
+
+/* فلش ها */
+/* فلش های Amazing Offers */
+
+.brands-prev::after {
+  content: "›";
+  font-size: 22px;
+  color: #424750;
+}
+
+.brands-next::after {
+  content: "‹";
+  font-size: 22px;
+  color: #424750;
+}
+
+/* hover خود دکمه */
+
+.brands-prev:hover,
+.brands-next:hover {
+  background: #f0f0f1;
+
+  transform: translateY(-50%);
+}
+
+.preference-prev,
+.preference-next {
+  width: 40px;
+
+  height: 40px;
+
+  background: white;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  z-index: 50;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  font-size: 0;
+
+  color: #424750;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.25s ease;
+}
+
+/* جای دکمه ها */
+
+.preference-prev {
+  left: 12px;
+}
+
+.preference-next {
+  right: 12px;
+}
+
+/* نمایش هنگام رفتن موس روی اسلایدر */
+
+.preferenceSwiper:hover ~ .preference-prev,
+.preferenceSwiper:hover ~ .preference-next,
+.preference-prev:hover,
+.preference-next:hover {
+  opacity: 1;
+
+  visibility: visible;
+}
+
+/* فلش ها */
+/* فلش های Amazing Offers */
+
+.preference-prev::after {
+  content: "›";
+  font-size: 22px;
+  color: #424750;
+}
+
+.preference-next::after {
+  content: "‹";
+  font-size: 22px;
+  color: #424750;
+}
+
+/* hover خود دکمه */
+
+.preference-prev:hover,
+.preference-next:hover {
+  background: #f0f0f1;
+
+  transform: translateY(-50%);
+}
+
+.recommended-prev,
+.recommended-next {
+  width: 40px;
+
+  height: 40px;
+
+  background: white;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  z-index: 50;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  font-size: 0;
+
+  color: #424750;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.25s ease;
+}
+
+/* جای دکمه ها */
+
+.recommended-prev {
+  left: 12px;
+}
+
+.recommended-next {
+  right: 12px;
+}
+
+/* نمایش هنگام رفتن موس روی اسلایدر */
+
+.recommendedSwiper:hover ~ .recommended-prev,
+.recommendedSwiper:hover ~ .recommended-next,
+.recommended-prev:hover,
+.recommended-next:hover {
+  opacity: 1;
+
+  visibility: visible;
+}
+
+/* فلش ها */
+/* فلش های Amazing Offers */
+
+.recommended-prev::after {
+  content: "›";
+  font-size: 22px;
+  color: #424750;
+}
+
+.recommended-next::after {
+  content: "‹";
+  font-size: 22px;
+  color: #424750;
+}
+
+/* hover خود دکمه */
+
+.recommended-prev:hover,
+.recommended-next:hover {
+  background: #f0f0f1;
+
+  transform: translateY(-50%);
+}
+
+.eyelashEnhancers-prev,
+.eyelashEnhancers-next {
+  width: 40px;
+
+  height: 40px;
+
+  background: white;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  z-index: 50;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  font-size: 0;
+
+  color: #424750;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.25s ease;
+}
+
+/* جای دکمه ها */
+
+.eyelashEnhancers-prev {
+  left: 12px;
+}
+
+.eyelashEnhancers-next {
+  right: 12px;
+}
+
+/* نمایش هنگام رفتن موس روی اسلایدر */
+
+.eyelashEnhancersSwiper:hover ~ .eyelashEnhancers-prev,
+.eyelashEnhancersSwiper:hover ~ .eyelashEnhancers-next,
+.eyelashEnhancers-prev:hover,
+.eyelashEnhancers-next:hover {
+  opacity: 1;
+
+  visibility: visible;
+}
+
+/* فلش ها */
+/* فلش های Amazing Offers */
+
+.eyelashEnhancers-prev::after {
+  content: "›";
+  font-size: 22px;
+  color: #424750;
+}
+
+.eyelashEnhancers-next::after {
+  content: "‹";
+  font-size: 22px;
+  color: #424750;
+}
+
+/* hover خود دکمه */
+
+.eyelashEnhancers-prev:hover,
+.eyelashEnhancers-next:hover {
+  background: #f0f0f1;
+
+  transform: translateY(-50%);
+}
+
+.protein-prev,
+.protein-next {
+  width: 40px;
+
+  height: 40px;
+
+  background: white;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  z-index: 50;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  font-size: 0;
+
+  color: #424750;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.25s ease;
+}
+
+/* جای دکمه ها */
+
+.protein-prev {
+  left: 12px;
+}
+
+.protein-next {
+  right: 12px;
+}
+
+/* نمایش هنگام رفتن موس روی اسلایدر */
+
+.proteinSwiper:hover ~ .protein-prev,
+.proteinSwiper:hover ~ .protein-next,
+.protein-prev:hover,
+.protein-next:hover {
+  opacity: 1;
+
+  visibility: visible;
+}
+
+/* فلش ها */
+/* فلش های Amazing Offers */
+
+.protein-prev::after {
+  content: "›";
+  font-size: 22px;
+  color: #424750;
+}
+
+.protein-next::after {
+  content: "‹";
+  font-size: 22px;
+  color: #424750;
+}
+
+/* hover خود دکمه */
+
+.protein-prev:hover,
+.protein-next:hover {
+  background: #f0f0f1;
+
+  transform: translateY(-50%);
+}
+
+/* ================================
+   Best Selling Products
+   ================================ */
+
+/* =========================================
+   Best Selling Products
+   ========================================= */
+
+.bestSellingProductsSwiper {
+  width: 100%;
+  height: 390px;
+}
+
+.bestSellingProductsSwiper .swiper-wrapper {
+  align-items: stretch;
+}
+
+.bestSellingProductsSwiper .swiper-slide {
+  height: auto;
+  box-sizing: border-box;
+}
+
+.bestSellingProductsSwiper .swiper-slide > div {
+  height: 100%;
+}
+
+.bestSellingProductsSwiper .swiper-slide > div > div {
+  min-height: 125px;
+  padding: 14px 12px;
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* عکس محصولات */
+.bestSellingProductsSwiper img {
+  width: 95px;
+  height: 95px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+/* رتبه */
+.bestSellingProductsSwiper .text-red-500 {
+  min-width: 30px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* نام محصول */
+.bestSellingProductsSwiper p {
+  margin: 0;
+  line-height: 1.8;
+}
+
+/* جداکننده بین سه محصول هر ستون */
+.bestSellingProductsSwiper .swiper-slide > div > div + div {
+  border-top: 1px solid #f1f2f4;
+}
+/* =========================
+   Best Selling Products Buttons
+========================= */
+/* موبایل */
+@media (max-width: 767px) {
+
+
+  .bestSellingProducts-prev,
+  .bestSellingProducts-next {
+
+    display: flex !important;
+
+    width: 32px !important;
+
+    height: 32px !important;
+
+    font-size: 16px !important;
+
+    top: 50% !important;
+
+  }
+
+
+  .bestSellingProducts-prev {
+
+    left: 10px !important;
+
+  }
+
+
+  .bestSellingProducts-next {
+
+    left: auto !important;
+
+    right: 10px !important;
+
+  }
+
+}
+.hottestProducts-prev,
+.hottestProducts-next {
+
+  width: 40px;
+
+  height: 40px;
+
+  background: white;
+
+  border-radius: 50%;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  position: absolute;
+
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  z-index: 50;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  font-size: 0;
+
+  color: #424750;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.25s ease;
+}
+
+
+/* جای دکمه ها */
+
+.hottestProducts-prev {
+
+  left: 12px;
+
+}
+
+
+.hottestProducts-next {
+
+  right: 12px;
+
+}
+
+
+
+/* نمایش هنگام رفتن موس روی اسلایدر */
+
+.hottestProductsSwiper:hover ~ .hottestProducts-prev,
+.hottestProductsSwiper:hover ~ .hottestProducts-next,
+.hottestProducts-prev:hover,
+.hottestProducts-next:hover {
+
+  opacity: 1;
+
+  visibility: visible;
+
+}
+
+
+
+/* فلش ها */
+
+.hottestProducts-prev::after {
+
+  content: "›";
+
+  font-size: 22px;
+
+  color: #424750;
+
+}
+
+
+
+.hottestProducts-next::after {
+
+  content: "‹";
+
+  font-size: 22px;
+
+  color: #424750;
+
+}
+
+
+
+/* hover خود دکمه */
+
+.hottestProducts-prev:hover,
+.hottestProducts-next:hover {
+
+  background: #f0f0f1;
+
+  transform: translateY(-50%);
+
+}
+
+
+
+/* =========================
+   Responsive Buttons
+========================= */
+
+
+/* تبلت */
+@media (max-width: 1024px) {
+
+
+  .hottestProducts-prev,
+  .hottestProducts-next {
+
+    width: 36px;
+
+    height: 36px;
+
+  }
+
+
+}
+
+
+
+/* موبایل */
+@media (max-width: 767px) {
+
+
+  .hottestProducts-prev,
+  .hottestProducts-next {
+
+    width: 30px;
+
+    height: 30px;
+
+  }
+
+
+  .hottestProducts-prev {
+
+    left: 8px;
+
+  }
+
+
+  .hottestProducts-next {
+
+    right: 8px;
+
+  }
+
+
+  .hottestProducts-prev::after,
+  .hottestProducts-next::after {
+
+    font-size: 16px;
+
+  }
+
+
+}

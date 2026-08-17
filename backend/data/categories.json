@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "موبایل",
+    "image": "/images/categories/mobile.png"
+  },
+  {
+    "id": 2,
+    "title": "لپ تاپ",
+    "image": "/images/categories/laptop.png"
+  },
+  {
+    "id": 3,
+    "title": "کالای دیجیتال",
+    "image": "/images/categories/digital.png"
+  },
+  {
+    "id": 4,
+    "title": "خانه و آشپزخانه",
+    "image": "/images/categories/home.png"
+  },
+  {
+    "id": 5,
+    "title": "مد و پوشاک",
+    "image": "/images/categories/fashion.png"
+  },
+  {
+    "id": 6,
+    "title": "زیبایی و بهداشت",
+    "image": "/images/categories/beauty.png"
+  },
+  {
+    "id": 7,
+    "title": "کتاب و لوازم تحریر",
+    "image": "/images/categories/books.png"
+  },
+  {
+    "id": 8,
+    "title": "ورزش و سفر",
+    "image": "/images/categories/sport.png"
+  },
+  {
+    "id":9,
+    "title":"خودرو و موتور سیکلت",
+    "image":"/images/categories/motor.png"
+  },
+   {
+    "id":10,
+    "title":"ابزار آلات و تجهیزات",
+    "image":"/images/categories/tools.png"
+  },
+   {
+    "id":11,
+    "title":"تجهیزات پزشکی و سلامت",
+    "image":"/images/categories/medicine.png"
+  },
+   {
+    "id":12,
+    "title":"پت شاپ",
+    "image":"/images/categories/pet.png"
+  },
+   {
+    "id":13,
+    "title":"اسباب بازی",
+    "image":"/images/categories/toy.png"
+  },
+   {
+    "id":14,
+    "title":"کالای خوراکی و اساسی",
+    "image":"/images/categories/food.png"
+  },
+   {
+    "id":15,
+    "title":"آرایشی بهداشتی",
+    "image":"/images/categories/makeup.png"
+  },
+   {
+    "id":16,
+    "title":"لوازم خانگی برقی",
+    "image":"/images/categories/electric.png"
+  },
+   {
+    "id":17,
+    "title":"طلا ونقره",
+    "image":"/images/categories/gold.png"
+  },
+   {
+    "id":18,
+    "title":"محصولات بومی و محلی",
+    "image":"/images/categories/traditional.png"
+  }
+]

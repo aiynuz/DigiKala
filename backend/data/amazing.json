@@ -1,0 +1,91 @@
+{
+  "title": "شگفت‌انگیز",
+  "discount": "%",
+  "timer": {
+    "hour": "04",
+    "minute": "41",
+    "second": "26"
+  },
+  "products": [
+    {
+      "id": 1,
+      "image": "/images/products/product1.webp",
+      "title": "کره بادام زمینی تبارمند - 370 گرم",
+      "oldPrice": "350000",
+      "price": "245000",
+      "discountPercent": "۳۰"
+    },
+    {
+      "id": 2,
+      "image": "/images/products/product2.webp",
+      "title": "پودر پروتئین با طعم شکلات کاله پرو - 1800 گرم",
+      "oldPrice": "45000000",
+      "price": "39900000",
+      "discountPercent": "۱۲"
+    },
+    {
+      "id": 3,
+      "image": "/images/products/product3.webp",
+      "title": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 مدل Smart Defense مناسب انواع پوست، حجم 50 میلی‌لیتر",
+      "oldPrice": "2500000",
+      "price": "1890000",
+      "discountPercent": "۲۵"
+    },
+    {
+      "id": 4,
+      "image": "/images/products/product4.webp",
+      "title": "سافت ژل امگا ۳ ۱۰۰۰ میلی گرمی نکستایل ویتامینز بسته 60 عددی",
+      "oldPrice": "500000",
+      "price": "355000",
+      "discountPercent": "۲۹"
+    },
+    {
+      "id": 5,
+      "image": "/images/products/product5.webp",
+      "title": "پودر پروتئین بدنسازی",
+      "oldPrice": "900000",
+      "price": "735000",
+      "discountPercent": "۱۸"
+    },
+    {
+      "id": 6,
+      "image": "/images/products/product6.webp",
+      "title": "لپ تاپ 15.6 اینچی ایسوس مدل ExpertBook B1 B1503CVA-Core 7 150U-16GB DDR5 4800MHz-512GB SSD-IPS-Fingerprint-Backlit",
+      "oldPrice": "900000",
+      "price": "650000",
+      "discountPercent": "۲۸"
+    },
+    {
+      "id": 7,
+      "image": "/images/products/product7.webp",
+      "title": "لپ‌تاپ 16 اچ‌ پی مدل OmniBook 5 AI af1055cl16-Ultra 5 225U-16GB LPDDR5X-1TB SSD-Touch-Backlit-W",
+      "oldPrice": "25000000",
+      "price": "22000000",
+      "discountPercent": "۱۵"
+    },
+    {
+      "id": 8,
+      "image": "/images/products/product8.webp",
+      "title": "ضد آفتاب رنگی sun safe",
+      "oldPrice": "3000000",
+      "price": "2200000",
+      "discountPercent": "۲۷"
+    },
+    {
+      "id": 9,
+      "image": "/images/products/product9.webp",
+      "title": "دستبند مردانه",
+      "oldPrice": "5000000",
+      "price": "3900000",
+      "discountPercent": "۲۲"
+    },
+    {
+      "id": 10,
+      "image": "/images/products/product10.webp",
+      "title": "کپسول ژلاتینی نرم کراتین پلاس یوروویتال بسته 30 عددی",
+      "oldPrice": "400000",
+      "price": "280000",
+      "discountPercent": "۳۰"
+    }
+  ]
+}

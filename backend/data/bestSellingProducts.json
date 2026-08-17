@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "/images/best-selling-product-1.webp",
+    "name": "کاور کوسن مدل گربه کد 1255",
+    "rank": "۱"
+  },
+  {
+    "id": 2,
+    "image": "/images/best-selling-product-2.webp",
+    "name": "کاور کوسن مدل شجریان کد r1182",
+    "rank": "۲"
+  },
+  {
+    "id": 3,
+    "image": "/images/best-selling-product-3.webp",
+    "name": "قاب گوشی موبایل مدل ALPHADOO DLEBET-7 مناسب برای گوشی موبایل",
+    "rank": "۳"
+  },
+  {
+    "id": 4,
+    "image": "/images/best-selling-product-4.webp",
+    "name": "کاور کوسن مدل پیرلو کد 2234",
+    "rank": "۴"
+  },
+  {
+    "id": 5,
+    "image": "/images/best-selling-product-5.webp",
+    "name": "قاب گوشی موبایل مدل WA14PROMAX-JELLY-50 مناسب برای گوشی موبایل",
+    "rank": "۵"
+  },
+  {
+    "id": 6,
+    "image": "/images/best-selling-product-6.webp",
+    "name": "کاور کوسن مدل کفش کد 2627",
+    "rank": "۶"
+  },
+  {
+    "id": 7,
+    "image": "/images/best-selling-product-7.webp",
+    "name": "کاور کوسن مدل یونیکورن کد 1293",
+    "rank": "۷"
+  },
+  {
+    "id": 8,
+    "image": "/images/best-selling-product-8.webp",
+    "name": "کوسن نازیکو مدل فانتزی طرح پروانه کد 0518",
+    "rank": "۸"
+  },
+  {
+    "id": 9,
+    "image": "/images/best-selling-product-9.webp",
+    "name": "قاب گوشی موبایل مدل WSGS25P-NEON-7 مناسب برای گوشی موبایل",
+    "rank": "۹"
+  },
+  {
+    "id": 10,
+    "image": "/images/best-selling-product-10.webp",
+    "name": "کاور آکام مدل DESERT-24 مناسب برای گوشی موبایل",
+    "rank": "۱۰"
+  },
+  {
+    "id": 11,
+    "image": "/images/best-selling-product-11.webp",
+    "name": "کاور آکام مدل WINTER-2 مناسب برای گوشی موبایل",
+    "rank": "۱۱"
+  },
+  {
+    "id": 12,
+    "image": "/images/best-selling-product-12.webp",
+    "name": "کاور آکام مدل WSGA25-CARTOONS-23 مناسب برای گوشی موبایل",
+    "rank": "۱۲"
+  },
+  {
+    "id": 13,
+    "image": "/images/best-selling-product-13.webp",
+    "name": "کاور آکام مدل WSGS24F-CREAMY-22 مناسب برای گوشی موبایل",
+    "rank": "۱۳"
+  },
+  {
+    "id": 14,
+    "image": "/images/best-selling-product-14.webp",
+    "name": "کاور آکام مدل WSGA15-DOGS-22 مناسب برای گوشی موبایل",
+    "rank": "۱۴"
+  },
+  {
+    "id": 15,
+    "image": "/images/best-selling-product-15.webp",
+    "name": "کاور آکام مدل WA14PROMAX-IRON MAN1 مناسب برای گوشی موبایل",
+    "rank": "۱۵"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "/images/banner-1.webp"
+  },
+  {
+    "id": 2,
+    "image": "/images/banner-2.webp"
+  },
+  {
+    "id": 3,
+    "image": "/images/banner-3.webp"
+  },
+  {
+    "id": 4,
+    "image": "/images/banner-4.webp"
+  }
+]

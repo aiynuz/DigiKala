@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "/images/protein-1.webp",
+    "name": "پودر وی پروتئین ایزوله ناترکس مدل استیک نوتریشن حجم 1200 گرم",
+    "oldPrice": "۷,۹۰۰,۰۰۰",
+    "discount": "۶٪",
+    "price": "۷,۴۲۶,۰۰۰"
+  },
+  {
+    "id": 2,
+    "image": "/images/protein-2.webp",
+    "name": "پودر پروتئین وی پگاه مدل Whey Protein حجم 500 گرم",
+    "oldPrice": "۳,۲۰۰,۰۰۰",
+    "discount": "۱۲٪",
+    "price": "۲,۸۱۶,۰۰۰"
+  },
+  {
+    "id": 3,
+    "image": "/images/protein-3.webp",
+    "name": "پودر پروتئین وی کارن مدل سوپر وی مناسب ورزشکاران حجم 1000 گرم",
+    "oldPrice": "۵,۸۰۰,۰۰۰",
+    "discount": "۸٪",
+    "price": "۵,۳۳۶,۰۰۰"
+  },
+  {
+    "id": 4,
+    "image": "/images/protein-4.webp",
+    "name": "پودر پروتئین وی کاله مدل Whey Protein حجم 1800 گرم",
+    "oldPrice": "۷,۵۰۰,۰۰۰",
+    "discount": "۱۰٪",
+    "price": "۶,۷۵۰,۰۰۰"
+  },
+  {
+    "id": 5,
+    "image": "/images/protein-5.webp",
+    "name": "پودر سوپر وی پی ان سی با طعم موز حجم 1050 گرم",
+    "oldPrice": "۴,۵۰۰,۰۰۰",
+    "discount": "۷٪",
+    "price": "۴,۱۸۵,۰۰۰"
+  },
+  {
+    "id": 6,
+    "image": "/images/protein-6.webp",
+    "name": "پودر پروتئین وی پلاتینیوم با طعم شکلات حجم 900 گرم",
+    "oldPrice": "۴,۸۰۰,۰۰۰",
+    "discount": "۱۵٪",
+    "price": "۴,۰۸۰,۰۰۰"
+  },
+  {
+    "id": 7,
+    "image": "/images/protein-7.webp",
+    "name": "پودر وی پروتئین اولترا بیس ناترکس مدل استار نوتریشن حجم 1200 گرم",
+    "oldPrice": "۸,۲۰۰,۰۰۰",
+    "discount": "۶٪",
+    "price": "۷,۷۰۸,۰۰۰"
+  },
+  {
+    "id": 8,
+    "image": "/images/protein-8.webp",
+    "name": "پودر پروتئین وی با طعم وانیل حجم 1000 گرم",
+    "oldPrice": "۵,۲۰۰,۰۰۰",
+    "discount": "۹٪",
+    "price": "۴,۷۳۲,۰۰۰"
+  },
+  {
+    "id": 9,
+    "image": "/images/protein-9.webp",
+    "name": "پودر ماسل مکس با طعم آیس کافی  بلید اسپرت - 7000 گرم",
+    "oldPrice": "۳,۰۰۰,۰۰۰",
+    "discount": "۱۴٪",
+    "price": "۲,۵۸۰,۰۰۰"
+  },
+  {
+    "id": 10,
+    "image": "/images/protein-10.webp",
+    "name": "هایپر وی پلاس دوبیس با طعم شکلات - وزن 30 گرم بسته 10 عددی ",
+    "oldPrice": "۱۰,۰۰۰,۰۰۰",
+    "discount": "۸٪",
+    "price": "۹,۲۰۰,۰۰۰"
+  }
+]

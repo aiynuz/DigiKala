@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "/images/preference-product-1.webp",
+    "name": "محلول پاک‌کننده آرایش ویتالیر مدل اکتی ویت حجم 250 میلی‌لیتر",
+    "oldPrice": "۴۵۰,۰۰۰",
+    "discount": "۳۶٪",
+    "price": "۳۰۸,۳۰۰"
+  },
+  {
+    "id": 2,
+    "image": "/images/preference-product-2.webp",
+    "name": "فوم شست‌وشوی صورت ویتالیر مدل وایت ویت مناسب پوست چرب حجم 150 میلی‌لیتر",
+    "oldPrice": "۴۴۳,۰۰۰",
+    "discount": "۴۰٪",
+    "price": "۲۶۶,۲۶۰"
+  },
+  {
+    "id": 3,
+    "image": "/images/preference-product-3.webp",
+    "name": "فوم شست‌وشوی صورت ویتالیر مدل Activit مناسب برای پوست چرب حجم 150 میلی‌لیتر به همراه تونر پاک‌کننده صورت ACTIVIT مناسب برای انواع پوست حجم 200 میلی لیتر و فلوئید مرطوب‌کننده صورت ACTIVIT مناسب برای پوست چرب حجم 50 میلی‌ لیتر",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۵۱۷,۹۰۰"
+  },
+  {
+    "id": 4,
+    "image": "/images/preference-product-4.webp",
+    "name": "ژل شست‌وشوی صورت ویتالیر مدل اکتیویت مناسب برای پوست چرب و مختلط حجم 200 میلی‌لیتر",
+    "oldPrice": "۴۴۵,۰۰۰",
+    "discount": "۳۹٪",
+    "price": "۲۶۹,۳۲۰"
+  },
+  {
+    "id": 5,
+    "image": "/images/preference-product-5.webp",
+    "name": "فوم شست‌وشوی صورت سادور مدل آووکادو آمینو اسید مناسب برای انواع پوست حجم 120 میلی‌لیتر",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۳۵۵,۰۰۰"
+  },
+  {
+    "id": 6,
+    "image": "/images/preference-product-6.webp",
+    "name": "فوم شست‌وشوی صورت ویتالیر مدل تایم ویت مناسب انواع پوست حجم 150 میلی‌لیتر",
+    "oldPrice": "۵۵۵,۰۰۰",
+    "discount": "۴۰٪",
+    "price": "۳۳۳,۰۰۰"
+  },
+  {
+    "id": 7,
+    "image": "/images/preference-product-7.webp",
+    "name": "فوم شستشوی صورت نئودرم مدل Purifier مناسب برای پوست چرب حجم 150 میلی‌لیتر",
+    "oldPrice": "۴۳۷,۰۰۰",
+    "discount": "۱۹٪",
+    "price": "۳۵۴,۶۰۰"
+  },
+  {
+    "id": 8,
+    "image": "/images/preference-product-8.webp",
+    "name": "فوم شست‌وشوی صورت ویتالیر مدل وایت ویت مناسب انواع پوست حجم 150 میلی‌لیتر",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۵۱۷,۹۰۰"
+  },
+  {
+    "id": 9,
+    "image": "/images/preference-product-9.webp",
+    "name": "ژل شستشوی صورت ویتالیر مدل ویتامین سی مناسب انواع پوست حجم 200 میلی لیتر",
+    "oldPrice": "۴۶۰,۰۰۰",
+    "discount": "۱۸٪",
+    "price": "۳۷۷,۲۰۰"
+  },
+  {
+    "id": 10,
+    "image": "/images/preference-product-10.webp",
+    "name": "فوم شست‌وشوی صورت ویتالیر مدل سنسی ویت مناسب پوست حساس حجم 150 میلی‌لیتر",
+    "oldPrice": "۴۴۰,۰۰۰",
+    "discount": "۲۵٪",
+    "price": "۳۳۰,۰۰۰"
+  }
+]

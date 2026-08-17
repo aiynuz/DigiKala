@@ -1,0 +1,108 @@
+{
+  "title": "ارسال ۳ ساعته فروشنده",
+  "icon": "fa-solid fa-truck-fast",
+  "description": "تحویل سریع کالاهای منتخب در کمتر از چند ساعت",
+
+  "categories": [
+    "همه",
+    "آرایشی و بهداشتی",
+    "مد و پوشاک",
+    "پت شاپ",
+    "کالای دیجیتال",
+    "ورزش و سفر",
+    "کتاب و لوازم تحریر",
+    "اسباب بازی"
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "image": "/images/products/flash1.webp",
+      "title": "هدفون بلوتوثی انکر مدل R50i NC با حذف نویز فعال (ANC)، درگاه شارژ USB Type-C، باتری قابل شارژ تا 45 ساعت، مقاوم در برابر پاشش آب و گرد و غبار",
+      "oldPrice": "۳۰۰٬۰۰۰",
+      "price": "۲۵۰٬۰۰۰",
+      "discount": "۲۰٪"
+    },
+
+    {
+      "id": 2,
+      "image": "/images/products/flash2.webp",
+      "title": "کپسول ففول اینترافارم بسته 30 عددی",
+      "oldPrice": "۴۰۰٬۰۰۰",
+      "price": "۳۲۰٬۰۰۰",
+      "discount": "۲۰٪"
+    },
+
+    {
+      "id": 3,
+      "image": "/images/products/flash3.webp",
+      "title": "قرص کافئین یوروویتال -  200 میلی گرم بسته 60 عددی",
+      "oldPrice": "۵۰۰٬۰۰۰",
+      "price": "۴۲۰٬۰۰۰",
+      "discount": "۱۶٪"
+    },
+
+    {
+      "id": 4,
+      "image": "/images/products/flash4.webp",
+      "title": "پنکه رومیزی مدل مه پاش",
+      "oldPrice": "۶۰۰٬۰۰۰",
+      "price": "۴۸۰٬۰۰۰",
+      "discount": "۲۰٪"
+    },
+
+    {
+      "id": 5,
+      "image": "/images/products/flash5.webp",
+      "title": "قرص ویتامین ث 1000 یورویتال بسته 60 عددی",
+      "oldPrice": "۷۰۰٬۰۰۰",
+      "price": "۵۶۰٬۰۰۰",
+      "discount": "۲۰٪"
+    },
+
+    {
+      "id": 6,
+      "image": "/images/products/flash6.webp",
+      "title": "پودر پروتیین وی با طعم کوکی کاله پرو - 1800 گرم",
+      "oldPrice": "۸۰۰٬۰۰۰",
+      "price": "۶۴۰٬۰۰۰",
+      "discount": "۲۰٪"
+    },
+
+    {
+      "id": 7,
+      "image": "/images/products/flash7.webp",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A57 دو سیم‌کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+      "oldPrice": "۹۰۰٬۰۰۰",
+      "price": "۷۲۰٬۰۰۰",
+      "discount": "۲۰٪"
+    },
+
+    {
+      "id": 8,
+      "image": "/images/products/flash8.webp",
+      "title": "کرم محافظ پای کودک دخترانه آرت وینا مدل Protective حجم 75 میلی لیتر",
+      "oldPrice": "۱٬۰۰۰٬۰۰۰",
+      "price": "۸۰۰٬۰۰۰",
+      "discount": "۲۰٪"
+    },
+
+    {
+      "id": 9,
+      "image": "/images/products/flash9.webp",
+      "title": "پک ضدشوره مو مناسب اقایان",
+      "oldPrice": "۱٬۱۰۰٬۰۰۰",
+      "price": "۸۸۰٬۰۰۰",
+      "discount": "۲۰٪"
+    },
+
+    {
+      "id": 10,
+      "image": "/images/products/flash10.webp",
+      "title": "کنسرو سبزیجات مخلوط مایده",
+      "oldPrice": "۱٬۲۰۰٬۰۰۰",
+      "price": "۹۶۰٬۰۰۰",
+      "discount": "۲۰٪"
+    }
+  ]
+}

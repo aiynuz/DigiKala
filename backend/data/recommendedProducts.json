@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "/images/recommended-product-1.webp",
+    "name": "کره بادام درختی آنجیل - 250‌ گرم",
+    "oldPrice": "۵۰۰,۰۰۰",
+    "discount": "۲۰٪",
+    "price": "۴۰۰,۰۰۰"
+  },
+  {
+    "id": 2,
+    "image": "/images/recommended-product-2.webp",
+    "name": "کره خالص فندق آنجیل - ۲۵۰ گرم",
+    "oldPrice": "۶۵۰,۰۰۰",
+    "discount": "۱۵٪",
+    "price": "۵۵۲,۵۰۰"
+  },
+  {
+    "id": 3,
+    "image": "/images/recommended-product-3.webp",
+    "name": " کره گردو ممتاز زمانی - 260 گرم",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۳۸۰,۰۰۰"
+  },
+  {
+    "id": 4,
+    "image": "/images/recommended-product-4.webp",
+    "name": " کره کنجد ابری - 450 گرم",
+    "oldPrice": "۸۰۰,۰۰۰",
+    "discount": "۲۵٪",
+    "price": "۶۰۰,۰۰۰"
+  },
+  {
+    "id": 5,
+    "image": "/images/recommended-product-5.webp",
+    "name": " کره بادام زمینی رژیمی کرانچی مسعود - 500 گرم",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۴۵۰,۰۰۰"
+  },
+  {
+    "id": 6,
+    "image": "/images/recommended-product-6.webp",
+    "name": "کره بادام درختی آنجیل - 400 گرم",
+    "oldPrice": "۹۰۰,۰۰۰",
+    "discount": "۳۰٪",
+    "price": "۶۳۰,۰۰۰"
+  },
+  {
+    "id": 7,
+    "image": "/images/recommended-product-7.webp",
+    "name": " کره بادام زمینی آستانه روستایی - ۵۰۰ گرم",
+    "oldPrice": "۷۵۰,۰۰۰",
+    "discount": "۲۰٪",
+    "price": "۶۰۰,۰۰۰"
+  },
+  {
+    "id": 8,
+    "image": "/images/recommended-product-8.webp",
+    "name": "کره بادام زمینی ساده مستر بادوم ۴۰۰ گرم",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۵۲۰,۰۰۰"
+  },
+  {
+    "id": 9,
+    "image": "/images/recommended-product-9.webp",
+    "name": "کره بادام زمینی خالص سرمد - 480 گرم",
+    "oldPrice": "۱,۰۰۰,۰۰۰",
+    "discount": "۱۰٪",
+    "price": "۹۰۰,۰۰۰"
+  },
+  {
+    "id": 10,
+    "image": "/images/recommended-product-10.webp",
+    "name": "کره پسته سانته لند - 300 گرم",
+    "oldPrice": "",
+    "discount": "",
+    "price": "۴۸۰,۰۰۰"
+  }
+]
