@@ -65,15 +65,15 @@ const Categories = async () => {
                   ${
                     category.image
                       ? `
-                        <img
-                          src="${category.image}"
-                          alt="${category.title}"
-                          class="
-                            w-full
-                            h-full
-                            object-contain
-                          "
-                        >
+                       <img
+  src="${import.meta.env.BASE_URL}${category.image.replace(/^\/+/, "")}"
+  alt="${category.title}"
+  class="
+    w-full
+    h-full
+    object-contain
+  "
+>
                       `
                       : ""
                   }
